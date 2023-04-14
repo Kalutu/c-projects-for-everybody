@@ -10,9 +10,9 @@ The following projects are included in this repository:
 - Rock, Paper, Scissors - a game where the user plays against the computer in a game of Rock, Paper, Scissors
 - Tic Tac Toe - a game where the user plays against the computer in a game of Tic Tac Toe
 
-### Each project includes a detailed description of the problem to be solved, as well as hints and tips to help beginners get started. Additionally, each project includes a complete solution that demonstrates one possible way to solve the problem.
+Each project includes a detailed description of the problem to be solved, as well as hints and tips to help beginners get started. Additionally, each project includes a complete solution that demonstrates one possible way to solve the problem.
 
-##Getting Started
+## Getting Started
 To get started with these projects, follow these steps:
 
 - Clone the repository to your local machine
