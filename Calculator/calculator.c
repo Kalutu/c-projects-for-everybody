@@ -24,7 +24,12 @@ int main() {
             printf("Result: %.2lf\n", num1 * num2);
             break;
         case '/':
-            printf("Result: %.2lf\n", num1 / num2);
+            if(num2 == 0)
+            {
+                printf("Error: division by zero");
+            }
+            else
+                printf("Result: %.2lf\n", num1 / num2);
             break;
         default:
             printf("Invalid operator\n");
