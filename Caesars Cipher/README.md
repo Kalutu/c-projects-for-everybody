@@ -17,3 +17,11 @@ This is a simple program written in C that implements the Caesar cipher encrypti
     ```
 
 3. Follow the on-screen prompts to encrypt or decrypt messages.
+
+
+## Customization
+- You can modify the code to support different encryption algorithms or implement additional features.
+- Feel free to customize the program to suit your specific requirements.
+
+## Credits
+Project and Readme created by Kalutu Daniel
