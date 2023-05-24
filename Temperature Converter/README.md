@@ -18,4 +18,10 @@ This is a simple program written in C that allows users to convert temperatures 
     
 3. Follow the on-screen menu to select the conversion type and enter the temperature to convert.
 
+## Customization
+- You can modify the code to include additional temperature scales or conversion formulas.
+- Feel free to customize the program to suit your specific requirements.
+
+## Credits
+This project and Readme is created by Kalutu Daniel
 
