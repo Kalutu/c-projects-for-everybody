@@ -7,4 +7,15 @@ This is a simple program written in C that allows users to convert temperatures 
 
 ## Usage
 1. Compile the program:
+    ```
+    $ gcc -o temperature_converter temperature_converter.c
+    ```
+
+2. Run the program:
+    ```
+    $ ./temperature_converter
+    ```
+    
+3. Follow the on-screen menu to select the conversion type and enter the temperature to convert.
+
 
