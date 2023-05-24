@@ -20,4 +20,10 @@ This is a basic text editor program written in C that allows users to create, op
 
 3. Follow the on-screen menu to perform various actions on text files.
 
+## Customization
+- You can modify and extend the code to include additional features such as insertion, deletion, and search within the text file.
+- Feel free to customize the program to suit your specific requirements.
+
+## Credits
+This project and Readme is created by Kalutu Daniel
 
