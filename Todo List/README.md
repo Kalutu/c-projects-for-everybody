@@ -20,4 +20,11 @@ This is a simple command-line program written in C that allows users to create a
 
 3. Follow the on-screen menu to perform various actions on the to-do list.
 
+## Customization
+- You can modify the maximum number of tasks (`MAX_TASKS`) by changing the value in the code.
+- Feel free to extend the program with additional features or enhancements to suit your needs.
+
+## Credits
+This project and Readme is created by Kalutu Daniel.
+
 
