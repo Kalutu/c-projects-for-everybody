@@ -1,7 +1,9 @@
-# Ceaser-Crytography
-## Caesar Cipher Encryption and Decryption
-Caesar Cipher is a simple encryption technique that is used to shift each letter of the plaintext by a certain number of places down the alphabet. 
-The same technique can also be used to decrypt the ciphertext by shifting each letter back up the alphabet by the same number of places.
+# Caesar Cipher
+This is a simple program written in C that implements the Caesar cipher encryption and decryption algorithm. The program allows users to encrypt and decrypt messages using a specified key.
+
+## Features
+- Encrypt a message: Users can enter a message and a key to encrypt the message using the Caesar cipher.
+- Decrypt an encrypted message: Users can enter an encrypted message and the corresponding key to decrypt the message.
 
 ## Usage
-The Caesar Cipher Encryption and Decryption program takes three inputs: the plaintext or ciphertext message, the shift value, and the mode (encryption or decryption). The output is the ciphertext or plaintext message, respectively.
+1. Compile the program:
