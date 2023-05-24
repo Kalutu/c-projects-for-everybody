@@ -7,3 +7,13 @@ This is a simple program written in C that implements the Caesar cipher encrypti
 
 ## Usage
 1. Compile the program:
+    ```
+   $ gcc -o caesar_cipher caesar_cipher.c
+    ```
+
+2. Run the program:
+    ```
+    $ ./caesar_cipher
+    ```
+
+3. Follow the on-screen prompts to encrypt or decrypt messages.
