@@ -8,15 +8,18 @@ The Student Grade Tracker is a program written in C that allows users to track a
 
 ## Getting Started
 1. Clone the repository or download the source code.
-```git clone https://github.com/your-username/student-grade-tracker.git
+```
+git clone https://github.com/your-username/student-grade-tracker.git
 ```
 
 2. Compile the C program using a C compiler.
-```gcc student_grade_tracker.c -o student_grade_tracker
+```
+gcc student_grade_tracker.c -o student_grade_tracker
 ```
 
 3. Run the compiled executable.
-```./student_grade_tracker
+```
+./student_grade_tracker
 ```
 
 4. Follow the on-screen instructions to input student grades and view the grade report.
